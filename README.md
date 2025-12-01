@@ -1,40 +1,34 @@
-# 📊 Sales Dashboard
+# 📊 Data Analytics & Power BI Dashboards Portfolio
 
-This Power BI dashboard provides a complete overview of sales performance with a focus on revenue trends, product contribution, and growth analysis.
-
----
-
-## 🔍 Features
-
-- Total sales & revenue summary
-- Monthly/quarterly/yearly sales trend analysis
-- Region-wise breakdown and KPIs
-- Top performing products & categories
-- Interactive filters and drill-down analysis
+Welcome to my Data Analytics Portfolio!  
+This repository contains a collection of my **Power BI dashboards**, showcasing hands-on skills in **data analysis, business intelligence, visualization, and storytelling** across multiple domains such as sales, finance, operations, and startup ecosystems.
 
 ---
 
-## 🧠 Insights Derived
+## 📘 About
 
-- Identifies high & low performing product segments
-- Shows seasonal variations and demand cycles
-- Tracks revenue growth over time
-- Helps in strategic decision-making for pricing, marketing & inventory
+A collection of my **Power BI dashboards and data analytics projects**, built to analyze real-world datasets and generate actionable business insights.  
+Each dashboard demonstrates my ability to clean data, model relationships, build visual reports, and turn raw data into meaningful insights.
 
 ---
 
-## 📥 How to Use
+## 🛠️ Tools & Technologies
 
-1. Download `sales.pbix`
-2. Open using **Power BI Desktop**
-3. Use slicers to filter by region, product, and period
+- **Power BI Desktop**
+- DAX (Data Analysis Expressions)
+- Power Query (ETL)
+- Data Modeling  
+- Excel / CSV / SQL datasets
+- Visualization & Dashboard Design
 
 ---
 
-## 📌 Recommended Enhancements
+## 📥 How to Use This Portfolio
 
-- Add forecasting model
-- Include profitability metrics
-- Integrate customer demographics
+- Download any `.pbix` file from the repository  
+- Open the file using **Power BI Desktop**  
+- Use slicers in each dashboard to explore data interactively  
+- Navigate between pages using buttons or tabs  
+- Hover over charts for additional tooltips & insights
 
 ---
